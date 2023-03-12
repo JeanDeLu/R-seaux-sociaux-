@@ -1,0 +1,70 @@
+.block {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    color: black;
+    max-width: 500px;
+    width: 90%;
+    margin: 80px auto;
+    background-color: #ffffff;
+    padding-top: 35px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    color: #505e6c;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+.blockA {
+    display: flex;
+    justify-content: space-around;
+    width: 98%;
+    padding: 15px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+.blockA1 {
+    width: 70%;
+}
+.blockA2 {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-primary {
+    display: flex;
+    width: 65px;
+}
+.form-control {
+    background-color:#f1f7fc;
+    border: none;
+}
+.form-control:focus {
+    background-color:#f1f7fc;
+    border: none;
+    box-shadow: none;
+}
+.porte-photos-profil {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 200px;
+    border-radius: 50%;
+}
+.porte-photos-profil img {
+    width: 70%;
+    height: 200px;
+    border-radius: 50%;
+}
+.porte-photos {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 200px;
+}
+.porte-photos img {
+    width: 90%;
+    height: 200px;
+}
+p {
+    opacity: 0.8;
+}

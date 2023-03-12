@@ -1,0 +1,112 @@
+body {
+    background-color: #f1f7fc;
+  }
+.block {
+    max-width: 610px;
+    width: 90%;
+    margin: 80px auto;
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 4px;
+    color: #505e6c;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+
+.div-block2a {
+    width: 96%;
+    padding: 3px;
+    background: #ffffff;
+    margin: 10px 10px;
+    padding: 10px 2px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #0000001a;
+}
+.div-block2a1 {
+    margin: 8px;
+    width:70%;
+}
+.div-block2a1 textarea {
+    border-style: none;
+    background-color: #f1f7fc;
+    box-shadow: 1px 1px 6px #0000001a;
+    border-radius: 10px;
+}
+.div-block2a1 textarea:focus {
+    border-style: none;
+    background-color: #f1f7fc;
+    box-shadow: 1px 1px 6px #0000001a;
+    border-radius: 10px;
+}
+.div-block2a2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.div-block2b0 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.div-block2b1 {
+    display: flex;
+    width: 90%;
+    justify-content: center;
+}
+.div-block3 {
+    display: flex;
+    justify-content: space-around;
+}
+.div-block3a1 {
+    width: 70%;
+    padding: 5px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 5px #0000001a;
+    border-radius: 10px;
+}
+.div-block3a2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 10px;
+    border-radius: 10px;
+    width: 20%;
+}
+.div-block3a3 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 10px;
+    width: 95%;
+    margin: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 5px #0000001a;
+}
+.div-shadow {
+    display: flex;
+    width: 86%;
+    margin-top: 10px;
+    justify-content: center;
+    box-shadow: 1px 1px 5px #0000001a;
+    border-radius: 10px;
+}
+.div-block2b1 {
+    display: flex;
+    width: 92%;
+    height: 203px;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-left: 19px;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 5px #0000001a;
+    border-radius: 10px;
+}
+.btn-sm {
+    letter-spacing: 0px;
+    font-size: 12px;
+    line-height: 15.5px;
+}

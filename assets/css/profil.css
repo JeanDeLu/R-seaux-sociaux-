@@ -1,0 +1,115 @@
+
+.block {
+    max-width: 500px;
+    width: 90%;
+    height: 530px;
+    margin: 80px auto;
+    background-color: #ffffff;
+    padding-top: 35px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    color: #505e6c;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+#retour {
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+.blockA {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 98%;
+    max-height: 490px;
+    box-shadow: 1px 1px 5px #0000001a;
+}
+.couverture {
+    position: relative;
+    top: 40px;
+    display: flex;
+    width: 95%;
+    height: 200px;
+    margin: 13px;
+    box-shadow: 1px 1px 5px #0000001a;
+}
+.couverture img {
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+}
+.icon-couver {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:190px;
+    left: -70px;
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+    background: #f1f7fc;
+    border-radius: 50%;
+    box-shadow: 1px 1px 5px #0000001a;
+}
+.font-photo {
+    font-size: 15px;
+}
+.photo-profil {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top:-30px;
+    right: -32px;
+    width: 30%;
+    height: 150px;
+    box-shadow: 1px 1px 5px #0000001a;
+    background: #f1f7fc;
+    border-radius: 50%;
+}
+.photo-profil img {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.icon-profil {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top:-75px;
+    right: -130px;
+    padding: 15px;
+    background: #f1f7fc;
+    box-shadow: 1px 1px 5px #0000001a;
+    border-radius: 50%;
+}
+.porte-pseudo {
+    position: relative;
+    top:-60px;
+    right: -10px;
+    width: 95%;
+    padding: 5px;
+    padding-left: 15px;
+    box-shadow: 1px 1px 3px #0000001a;
+    border-radius: 10px;
+}
+.modal-body {
+    display: flex;
+}
+.modal-body img {
+    display: flex;
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+}
+.div2 {
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
